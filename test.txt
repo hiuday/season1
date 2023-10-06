@@ -5,11 +5,14 @@
 -- git remote add origin + (đường dẫn link url)
 -- git push
 --  git push --set-upstream origin test
+update source code trên github
+-- git add .
+-- git commit -m "<tên bất kì>"
+-- git push
+-- git push --set-upstream origin test
 
 
-
-học tách nhánh trong git
+-học tách nhánh trong git
 -- git branch + <tên nhánh>
 -- git branch 
 -- git checkout +<tên nhánh> (đổi từ nhánh master sang <tên nhánh>)
--- 
